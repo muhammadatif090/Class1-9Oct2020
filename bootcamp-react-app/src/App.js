@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>Welcome to ARID UNIVERSITY</h1>
+      <h1>Welcome to ARID UNIVERSITY1</h1>
     </div>
   );
 }
